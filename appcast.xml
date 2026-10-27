@@ -3,6 +3,15 @@
     <channel>
         <title>Orbit</title>
         <item>
+            <title>Orbit 0.2.3</title>
+            <pubDate>Tue, 27 Oct 2026 20:37:35 +0100</pubDate>
+            <sparkle:version>263002031</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Smoother online games</li><li>Orbit Chat</li><li>Discord in the notch</li><li>Focus together</li><li>Live sports</li><li>Talk to Orbit</li><li>Live captions + notes</li><li>Smart Stack</li><li>Share links, compress, link peek</li><li>Café + cockpit sounds</li><li>Streaks &amp; daily goals</li></ul>]]></description>
+            <enclosure url="https://github.com/VivaanTakodra/orbit-updates/releases/download/v0.2.3/Orbit-0.2.3.dmg" length="44450109" type="application/octet-stream" sparkle:edSignature="Hn1yLtU7URHNATOjCVvM64fkPmjIMVFLAc2p2PjdkErDvAK75reOu9s9kHn1nFGt4dpAu436+/1KsIiclDAYCg=="/>
+        </item>
+        <item>
             <title>Orbit 0.2.2</title>
             <pubDate>Tue, 27 Oct 2026 15:36:49 +0100</pubDate>
             <sparkle:version>263001531</sparkle:version>
