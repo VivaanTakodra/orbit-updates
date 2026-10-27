@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Orbit</title>
+        <item>
+            <title>Orbit 0.2.2</title>
+            <pubDate>Tue, 27 Oct 2026 15:36:49 +0100</pubDate>
+            <sparkle:version>263001531</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>FiveM status</li><li>Flight tracking</li><li>Weather scenes</li><li>Achievements + weekly Wrapped</li><li>Parcels</li><li>Friends</li><li>Themes</li><li>Plane spotter</li></ul>]]></description>
+            <enclosure url="https://github.com/VivaanTakodra/orbit-updates/releases/download/v0.2.2/Orbit-0.2.2.dmg" length="43465081" type="application/octet-stream" sparkle:edSignature="ntgXvBpqDe/2nvQfpj6CuVc076Po8DuKHRMBIUaIfZ1hT+z5s4IQuuzr/RGdEV920Wh00ZeEVQ42INpdoH+xBw=="/>
+        </item>
+    </channel>
+</rss>
