@@ -3,6 +3,15 @@
     <channel>
         <title>Orbit</title>
         <item>
+            <title>Orbit 0.2.4</title>
+            <pubDate>Thu, 29 Oct 2026 13:03:21 +0100</pubDate>
+            <sparkle:version>263021255</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Orbit Chat rebuilt: groups, photos, voice notes, GIFs, reactions</li><li>Message requests, follows, profiles and chat passwords</li><li>Reply right from the notch</li><li>Safer beta keys and automatic updates</li></ul>]]></description>
+            <enclosure url="https://github.com/VivaanTakodra/orbit-updates/releases/download/v0.2.4/Orbit-0.2.4.dmg" length="45974681" type="application/octet-stream" sparkle:edSignature="jDuxAvKK90ej4Aa7T4+VdhEJQFi6QkBW7wgxoonhjF1A4WzKe5vq2imLMXE2fUEO9ZU/SG1TzSWyc0rgR3GDCw=="/>
+        </item>
+        <item>
             <title>Orbit 0.2.3</title>
             <pubDate>Tue, 27 Oct 2026 20:37:35 +0100</pubDate>
             <sparkle:version>263002031</sparkle:version>
